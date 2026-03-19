@@ -32,7 +32,7 @@ The project aims to analyze datasets and extract meaningful insights using Pytho
 * Basic visualizations
 * Bar charts, line plots
 * Understanding trends in data
-  <img src="C:\Users\Rishik Reddy\OneDrive\Desktop\Travelnfo\Visualizations\DataVis_01_PNG\AverageSpending.png" , width=500>
+   
 
 ---
 
